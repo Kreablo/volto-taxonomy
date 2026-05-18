@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: andreas.jonsson@kreablo.se\n"
+"POT-Creation-Date: 2026-05-18\n"
+"PO-Revision-Date: 2026-05-18 10:04+0200\n"
+"Last-Translator: Andras Jonsson <andreas.jonsson@kreablo.se>\n"
+"Language: sv\n"
+"Language-Team: Swedish\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: sv\n"
+"Language-Name: Svenska\n"
+"Preferred-Encodings: utf-8\n"
+"X-Is-Fallback-For: sv-fi sv-se\n"
+
+#. Default: "Add child node"
+#: ControlPanel/EditTaxonomy
+msgid "Add child node"
+msgstr "Lägg till post under"
+
+#. Default: "Add node at same level"
+#: ControlPanel/EditTaxonomy
+msgid "Add node at same level"
+msgstr "Lägg till post på samma nivå"
+
+#. Default: "Cancel"
+#: ControlPanel/Taxonomies
+msgid "Cancel"
+msgstr "Avbryt"
+
+#. Default: "Changes saved"
+#: ControlPanel/EditTaxonomy
+#: ControlPanel/TaxonomySettings
+msgid "Changes saved"
+msgstr "Ändringar sparade"
+
+#. Default: "Confirm"
+#: ControlPanel/Taxonomies
+msgid "Confirm"
+msgstr "Bekräfta"
+
+#. Default: "Count"
+#: ControlPanel/Taxonomies
+msgid "Count"
+msgstr "Antal"
+
+#. Default: "Delete node"
+#: ControlPanel/EditTaxonomy
+msgid "Delete node"
+msgstr "Ta bort post"
+
+#. Default: "Do you really want to delete the following taxonomies?"
+#: ControlPanel/Taxonomies
+msgid "Do you really want to delete the following taxonomies?"
+msgstr "Bekräfta permanent radering av följande taxonomier:"
+
+#. Default: "Duplicated Ids present"
+#: ControlPanel/EditTaxonomy
+msgid "Duplicated Ids"
+msgstr "Duplicerade nyckelvärden"
+
+#. Default: "Error"
+#: ControlPanel/EditTaxonomy
+#: ControlPanel/Taxonomies
+msgid "Error"
+msgstr "Fel"
+
+#. Default: "Please add a new taxonomy entry"
+#: ControlPanel/EditTaxonomy
+msgid "Please add a new taxonomy entry"
+msgstr "Lägg till en ny taxonomi-post"
+
+#. Default: "Select"
+#: ControlPanel/Taxonomies
+msgid "Select"
+msgstr "Välj"
+
+#. Default: "Success"
+#: ControlPanel/AddTaxonomy
+#: ControlPanel/EditTaxonomy
+#: ControlPanel/Taxonomies
+msgid "Success"
+msgstr "Lyckades"
+
+#. Default: "Taxonomies Deleted"
+#: ControlPanel/Taxonomies
+msgid "Taxonomies Deleted"
+msgstr "Taxonomier borttagna"
+
+#. Default: "Taxonomy Added Successfully"
+#: ControlPanel/AddTaxonomy
+msgid "Taxonomy Added Successfully"
+msgstr "Lyckades lägga till taxonomi"
+
+#. Default: "Type"
+#: ControlPanel/Taxonomies
+msgid "Type"
+msgstr "Typ"
+
+#. Default: "Delete Taxonomies"
+#: ControlPanel/Taxonomies
+msgid "delete-taxonomies-heading"
+msgstr "Ta bort taxonomier"
+
+#. Default: "Duplicated Ids present, use unique ids in order to save these changes."
+#: ControlPanel/EditTaxonomy
+msgid "duplicatedIdContent"
+msgstr "Duplicerade nyckelvärden finns, nyckelvärdena måste vara unika per post för att det skall gå att spara äñdringarna."
+
+#. Default: "Edit Taxonomy"
+#: ControlPanel/EditTaxonomy
+msgid "edit-taxonomy"
+msgstr "Redigera taxonomi"
+
+#. Default: "Edit Taxonomy Data"
+#: ControlPanel/EditTaxonomy
+msgid "edit-taxonomy-data"
+msgstr "Redigera taxonomidata"
+
+#. Default: "Taxonomy: {taxonomy}"
+#: ControlPanel/EditTaxonomy
+msgid "edit-taxonomy-heading"
+msgstr "Taxonomi: {taxonomy}"
+
+#. Default: "Key"
+#: ControlPanel/EditTaxonomy
+msgid "edit-taxonomy-key-placeholder"
+msgstr "Nyckelvärde"
+
+#. Default: "Language"
+#: ControlPanel/EditTaxonomy
+msgid "edit-taxonomy-language"
+msgstr "Språk"
+
+#. Default: "Taxonomies"
+#: ControlPanel/EditTaxonomy
+msgid "edit-taxonomy-taxonomies"
+msgstr "Taxonomier"
+
+#. Default: "Translatable text"
+#: ControlPanel/EditTaxonomy
+msgid "edit-taxonomy-text-placeholder"
+msgstr "Översättningsbar text"
