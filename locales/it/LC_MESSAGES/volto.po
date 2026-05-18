@@ -11,81 +11,131 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
 
+#. Default: "Add child node"
 #: ControlPanel/EditTaxonomy
-# defaultMessage: Add child node
 msgid "Add child node"
 msgstr "Aggiungi nodo figlio"
 
+#. Default: "Add node at same level"
 #: ControlPanel/EditTaxonomy
-# defaultMessage: Add node at same level
 msgid "Add node at same level"
 msgstr "Aggiungi nodo allo stesso livello"
 
+#. Default: "Cancel"
+#: ControlPanel/Taxonomies
+msgid "Cancel"
+msgstr ""
+
+#. Default: "Changes saved"
 #: ControlPanel/EditTaxonomy
 #: ControlPanel/TaxonomySettings
-# defaultMessage: Changes saved
 msgid "Changes saved"
 msgstr "Modifiche salvate"
 
+#. Default: "Confirm"
 #: ControlPanel/Taxonomies
-# defaultMessage: Count
+msgid "Confirm"
+msgstr ""
+
+#. Default: "Count"
+#: ControlPanel/Taxonomies
 msgid "Count"
 msgstr ""
 
+#. Default: "Delete node"
 #: ControlPanel/EditTaxonomy
-# defaultMessage: Delete node
 msgid "Delete node"
 msgstr "Elimina nodo"
 
+#. Default: "Do you really want to delete the following taxonomies?"
 #: ControlPanel/Taxonomies
-# defaultMessage: Do you really want to delete the following taxonomies?
 msgid "Do you really want to delete the following taxonomies?"
 msgstr "Vuoi davvero eliminare le seguenti tassonomie?"
 
+#. Default: "Duplicated Ids present"
 #: ControlPanel/EditTaxonomy
-# defaultMessage: Duplicated Ids present
 msgid "Duplicated Ids"
 msgstr "ID duplicati presenti"
 
+#. Default: "Error"
 #: ControlPanel/EditTaxonomy
 #: ControlPanel/Taxonomies
-# defaultMessage: Error
 msgid "Error"
 msgstr "Errore"
 
+#. Default: "Please add a new taxonomy entry"
 #: ControlPanel/EditTaxonomy
-# defaultMessage: Please add a new taxonomy entry
 msgid "Please add a new taxonomy entry"
 msgstr "Aggiungi una nuova voce di tassonomia"
 
+#. Default: "Select"
 #: ControlPanel/Taxonomies
-# defaultMessage: Select
 msgid "Select"
 msgstr "Seleziona"
 
+#. Default: "Success"
 #: ControlPanel/AddTaxonomy
 #: ControlPanel/EditTaxonomy
 #: ControlPanel/Taxonomies
-# defaultMessage: Success
 msgid "Success"
 msgstr "Successo"
 
+#. Default: "Taxonomies Deleted"
 #: ControlPanel/Taxonomies
-# defaultMessage: Taxonomies Deleted
 msgid "Taxonomies Deleted"
 msgstr "Tassonomie eliminate"
 
+#. Default: "Taxonomy Added Successfully"
 #: ControlPanel/AddTaxonomy
-# defaultMessage: Taxonomy Added Successfully
 msgid "Taxonomy Added Successfully"
 msgstr "Tassonomia aggiunta con successo"
 
+#. Default: "Type"
 #: ControlPanel/Taxonomies
-# defaultMessage: Type
 msgid "Type"
 msgstr "Tipo"
 
+#. Default: "Delete Taxonomies"
+#: ControlPanel/Taxonomies
+msgid "delete-taxonomies-heading"
+msgstr ""
+
+#. Default: "Duplicated Ids present, use unique ids in order to save these changes."
 #: ControlPanel/EditTaxonomy
-# defaultMessage: Duplicated Ids present, use unique ids in order to save these changes.
 msgid "duplicatedIdContent"
 msgstr "ID duplicati presenti, usa ID unici per salvare queste modifiche."
+
+#. Default: "Edit Taxonomy"
+#: ControlPanel/EditTaxonomy
+msgid "edit-taxonomy"
+msgstr ""
+
+#. Default: "Edit Taxonomy Data"
+#: ControlPanel/EditTaxonomy
+msgid "edit-taxonomy-data"
+msgstr ""
+
+#. Default: "Taxonomy: {taxonomy}"
+#: ControlPanel/EditTaxonomy
+msgid "edit-taxonomy-heading"
+msgstr ""
+
+#. Default: "Key"
+#: ControlPanel/EditTaxonomy
+msgid "edit-taxonomy-key-placeholder"
+msgstr ""
+
+#. Default: "Language"
+#: ControlPanel/EditTaxonomy
+msgid "edit-taxonomy-language"
+msgstr ""
+
+#. Default: "Taxonomies"
+#: ControlPanel/EditTaxonomy
+msgid "edit-taxonomy-taxonomies"
+msgstr ""
+
+#. Default: "Translatable text"
+#: ControlPanel/EditTaxonomy
+msgid "edit-taxonomy-text-placeholder"
+msgstr ""
