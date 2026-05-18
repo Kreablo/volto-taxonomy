@@ -86,6 +86,7 @@ const TaxonomySettings = (props) => {
     taxonomy_fieldset: taxonomy?.fieldset,
     field_prefix: taxonomy?.prefix,
     taxonomy: taxonomy?.name,
+    default_language: taxonomy?.default_language,
   };
 
   useEffect(() => {
