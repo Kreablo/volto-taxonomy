@@ -1,4 +1,5 @@
 /* colors */
+@c: 0.2;
 :root {
   /* Change this variable to set the theme color for all components. */
   /* You can use the below presets, or choose a custom color. */
@@ -78,22 +79,22 @@
   --lightness-1600: 16.6959%;
 
   /* lower chroma at low lightness levels */
-  --chroma-100: calc(l * c * 0.5);
-  --chroma-200: calc(l * c * 0.6);
-  --chroma-300: calc(l * c * 0.7);
-  --chroma-400: calc(l * c * 0.8);
-  --chroma-500: calc(l * c * 0.9);
-  --chroma-600: c;
-  --chroma-700: c;
-  --chroma-800: c;
-  --chroma-900: c;
-  --chroma-1000: c;
-  --chroma-1100: c;
-  --chroma-1200: c;
-  --chroma-1300: c;
-  --chroma-1400: c;
-  --chroma-1500: c;
-  --chroma-1600: c;
+  --chroma-100: calc(@c * 0.5);
+  --chroma-200: calc(@c * 0.6);
+  --chroma-300: calc(@c * 0.7);
+  --chroma-400: calc(@c * 0.8);
+  --chroma-500: calc(@c * 0.9);
+  --chroma-600: @c;
+  --chroma-700: @c;
+  --chroma-800: @c;
+  --chroma-900: @c;
+  --chroma-1000: @c;
+  --chroma-1100: @c;
+  --chroma-1200: @c;
+  --chroma-1300: @c;
+  --chroma-1400: @c;
+  --chroma-1500: @c;
+  --chroma-1600: @c;
 
   --highlight-hover: rgb(0 0 0 / 0.07);
   --highlight-pressed: rgb(0 0 0 / 0.15);

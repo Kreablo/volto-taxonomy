@@ -25,7 +25,6 @@
     "react-toastify": "*",
     "react-intl": "*",
     "react-router-dom": "*",
-    "@plone/volto": "*",
     "@plone/components": "*",
     "uuid": "*",
     "lucide-react": "*"
@@ -84,7 +83,6 @@
     "lint:fix": "make lint-fix",
     "i18n": "rm -rf build/messages && NODE_ENV=production i18n --addon",
     "cypress:run": "make cypress-run",
-    "cypress:open": "make cypress-open",
-    "prepare": "husky install"
+    "cypress:open": "make cypress-open"
   }
 }
